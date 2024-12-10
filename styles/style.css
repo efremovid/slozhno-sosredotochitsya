@@ -391,6 +391,7 @@
   }
 
   .header__theme-menu {
+    width: 230px;
     margin-left: 20px;
     grid-row: 1 / 2;
     margin-block-start: 0px;
@@ -400,7 +401,6 @@
 
   .header__theme-menu-list {
     flex-direction: row;
-    gap: 10px;
   }
 
   .header_title {
