@@ -65,7 +65,7 @@
 }
 
 .header__theme-menu {
-  margin-block-start: 65px;
+  margin-block-start: 63px;
   block-size: max-content;
   inline-size: 70px;
 }
@@ -75,6 +75,7 @@
   flex-direction: column;
   gap: 10px;
 }
+
 
 .header__theme-menu-button {
   width: 70px;
