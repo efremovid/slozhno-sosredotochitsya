@@ -5,30 +5,20 @@
 */
 
 .page.theme_dark {
-  --bg-image: url(/images/cover-image-dark.png);
-  --bg-color_main: #000028;
-  --title-font-color: #FF0070;
-  --text-font-color: #F1B2CE;
-  --shadow-font-color: #DB00FF;
-  --padding: 10px;
-  --padding-big: 20px;
-  --main-font: 'IBM Plex Mono';
-  --main-font-size: 18px;
-  --line-height-title: 95.7px;
+  --bg-image: url(../images/cover-image-dark.png);
+  --background-color: #000028;
+  --accent-color: #ff0070;
+  --heading-color: #db00ff;
+  --menu-color: #ff0070;
+  --text-color: #f1b2ce;
+  --title-decor-color: #000028;
+  --title-color: #ff0070;
+  --header-shadow: #FF0070;
+  --main-title: #FF0070;
+  --hover: #FF007066;
+  --display: flex;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-image: url(/images/cover-image-dark.png);
-    --bg-color_main: #000028;
-    --title-font-color: #FF0070;
-    --text-font-color: #F1B2CE;
-    --shadow-font-color: #DB00FF;
-    --padding: 10px;
-    --padding-big: 20px;
-    --main-font: 'IBM Plex Mono';
-    --main-font-size: 18px;
-    --line-height-title: 95.7px;
-  }
-} 
+
+
 

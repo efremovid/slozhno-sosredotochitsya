@@ -1,5 +1,5 @@
 :root {
-  --bg-image: url(/images/cover-image-dark.png);
+  --bg-image: url(../images/cover-image-dark.png);
   --padding: 10px;
   --padding-big: 20px;
   --main-font: 'IBM Plex Mono';
@@ -10,8 +10,12 @@
   --heading-color: #db00ff;
   --menu-color: #ff0070;
   --text-color: #f1b2ce;
+  --main-title: #FF0070;
   --title-decor-color: #000028;
   --title-color: #ff0070;
   --header-shadow: #FF0070;
+  --hover: #FF007066;
   --display: flex;
 }
+
+
